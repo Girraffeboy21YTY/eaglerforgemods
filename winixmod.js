@@ -643,7 +643,7 @@ filter: blur(4px);
             },
              {
               name: "WinterLegends",
-              address: "wwss://eaglercraft.winterlegends.xyz"
+              address: "wss://eaglercraft.winterlegends.xyz"
             },
             {
               name: "Arch MC",
