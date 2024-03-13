@@ -641,6 +641,10 @@ filter: blur(4px);
               name: "Mainbird Network",
               address: "wss://ec.mainbird.org"
             },
+             {
+              name: "WinterLegends",
+              address: "wwss://eaglercraft.winterlegends.xyz"
+            }
             {
               name: "Arch MC",
               address: "wss://mc.arch.lol"
@@ -649,10 +653,7 @@ filter: blur(4px);
               name: "Clever Teaching",
               address: "wss://clever-teaching.com"
             },
-            {
-              name: "Zyth",
-              address: "wss://mc.zyth.me"
-            }
+           
           ];
           servers.style.overflowY = "scroll";
           servers.style.wordBreak = "break-all";
