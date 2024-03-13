@@ -310,7 +310,7 @@
       name: "Server Crasher",
       function: new template(servercrasher_exports),
       category: "Exploit",
-      description: "Sends just a few swing packets ;)"
+      description: "Sends just a few swing packets ;) In development"
     },
     rgbclouds: {
       name: "RGB Clouds",
@@ -644,10 +644,6 @@ filter: blur(4px);
             {
               name: "Arch MC",
               address: "wss://mc.arch.lol"
-            },
-            {
-              name: "Hellium Network",
-              address: "wss://helltech.cc"
             },
             {
               name: "Clever Teaching",
