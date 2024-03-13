@@ -652,7 +652,7 @@ filter: blur(4px);
             {
               name: "Clever Teaching",
               address: "wss://clever-teaching.com"
-            },
+            }
           ];
           servers.style.overflowY = "scroll";
           servers.style.wordBreak = "break-all";
