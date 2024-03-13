@@ -644,7 +644,7 @@ filter: blur(4px);
              {
               name: "WinterLegends",
               address: "wwss://eaglercraft.winterlegends.xyz"
-            }
+            },
             {
               name: "Arch MC",
               address: "wss://mc.arch.lol"
@@ -653,7 +653,6 @@ filter: blur(4px);
               name: "Clever Teaching",
               address: "wss://clever-teaching.com"
             },
-           
           ];
           servers.style.overflowY = "scroll";
           servers.style.wordBreak = "break-all";
